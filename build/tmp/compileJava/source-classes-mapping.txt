@@ -1,0 +1,6 @@
+com/example/scraper/SenateController.java
+ com.example.scraper.SenateController
+com/example/scraper/Senator.java
+ com.example.scraper.Senator
+com/example/scraper/ScraperApplication.java
+ com.example.scraper.ScraperApplication
